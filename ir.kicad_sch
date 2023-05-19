@@ -1936,8 +1936,8 @@
     (property "Datasheet" "~" (at 204.47 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7935e022-a983-476c-b58b-34bf9e69dd6c))
-    (pin "2" (uuid b068f2e0-8efd-43a2-80c3-636c866e99fb))
+    (pin "1" (uuid 8ea20737-ccea-4be8-a469-f12410bc0a5d))
+    (pin "2" (uuid 5371cc4b-aef9-46e5-9432-f71256e4ad66))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -1967,7 +1967,7 @@
     (property "Datasheet" "" (at 104.14 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f6e6a093-aa52-4852-a8a5-c29eae6ad005))
+    (pin "1" (uuid 60a3563b-35be-425e-8157-19215f4d51e5))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -1997,9 +1997,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 64.77 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a62990f7-8b90-456d-a98d-22e709c22a89))
-    (pin "2" (uuid b9af5e2f-64f7-4d5a-b970-6b3351b67356))
-    (pin "3" (uuid 17809e7b-5fad-498b-a14b-b9c20117c4d6))
+    (pin "1" (uuid 7bdc1d7b-351d-49de-a8b9-95f109811257))
+    (pin "2" (uuid 3e94fc01-1323-46cb-b435-6332f608567b))
+    (pin "3" (uuid 3ddd7a1e-34ec-48df-b967-7e1945c5ee3b))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2029,9 +2029,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 102.87 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d00a5e1e-8e3f-40f6-b349-3e8b20b9d509))
-    (pin "2" (uuid 9a4b8646-77e3-4f2b-8fc2-d16625f7cfee))
-    (pin "3" (uuid 79e7b12a-9878-4c91-acdd-482ac8a56b78))
+    (pin "1" (uuid 617b8866-01a0-4723-a145-8d46ab54267b))
+    (pin "2" (uuid 29b02b5f-28e8-4649-b21e-cdee3f3168f2))
+    (pin "3" (uuid 51b88cc0-7df4-46ce-93bc-a47229e4df03))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2061,9 +2061,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 102.87 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3cf365e6-2d00-48b3-b311-fdd9b89e674e))
-    (pin "2" (uuid 07c37109-2901-43bb-88a1-33ff2c9027a5))
-    (pin "3" (uuid a2666aca-4f3e-4b1c-8020-1a9c4e49cbcf))
+    (pin "1" (uuid e80f3e04-45fe-4a48-aa3d-3800bc88c597))
+    (pin "2" (uuid 561782e1-bfbe-466a-b347-65060968fcbe))
+    (pin "3" (uuid 69c7ddbc-f8b7-46bc-a845-a0dffb048b18))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2093,9 +2093,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 102.87 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e0db0e20-5b46-4bf8-8023-61da44a30ff5))
-    (pin "2" (uuid 5240d01a-a04e-424c-b5b1-d2e505bde988))
-    (pin "3" (uuid a0504874-431a-41bf-8eb3-e716b22e2008))
+    (pin "1" (uuid ff664562-99e6-4720-aed6-4358f22cba86))
+    (pin "2" (uuid 088ed398-32e0-4a84-8e4a-5e7e0100e2e4))
+    (pin "3" (uuid 608d7750-b4b9-4d59-b72c-0f9c5d5baba0))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2125,7 +2125,7 @@
     (property "Datasheet" "" (at 104.14 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 38cec1cf-b25f-4a77-bde5-74637fa9be54))
+    (pin "1" (uuid acf0aad2-8c01-4e8b-ab45-d5d1e190b167))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2155,9 +2155,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 142.24 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1ccf8762-9485-4a97-be95-7f745f35e925))
-    (pin "2" (uuid f786467b-3416-4981-9845-b303c586e0de))
-    (pin "3" (uuid f89a060e-a13c-425f-b8b5-754ceb30982a))
+    (pin "1" (uuid bd25a9e1-10f9-4664-8f5a-10d1e1903851))
+    (pin "2" (uuid 28ac20c1-e54d-4686-9d29-2effdfb5a083))
+    (pin "3" (uuid 4b771716-0c75-4971-838d-b302494dbf7e))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2187,9 +2187,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 64.77 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 087ab5e8-08a2-4869-a5d3-3dd86e510389))
-    (pin "2" (uuid 4b54a654-13d1-4192-a741-3f74d8fe1a56))
-    (pin "3" (uuid 70600036-253b-4b12-ba49-222635e5b0d6))
+    (pin "1" (uuid 0f57e708-1d14-4ebe-8129-fbc971e659b1))
+    (pin "2" (uuid 7746e1d0-093d-4192-8910-989226fea74d))
+    (pin "3" (uuid 9f05f14a-51a4-4cd0-ba8c-c8bafdf0550e))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2219,8 +2219,8 @@
     (property "Datasheet" "~" (at 180.34 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5a2f35eb-c0d3-46e7-b95c-f4e8ea67bb08))
-    (pin "2" (uuid ee575cba-de53-4724-9d8e-1ae6aeb9056c))
+    (pin "1" (uuid 3d03f3bf-d012-4a98-8b4f-8fdeb4a17f47))
+    (pin "2" (uuid 0d3e28d6-1a99-406d-b701-2ca956ef0cb8))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2250,7 +2250,7 @@
     (property "Datasheet" "" (at 104.14 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 46fe9cd8-7dc5-4cf4-929f-29f8762dc486))
+    (pin "1" (uuid c9303018-dbf1-49c8-bd00-701e0b4e3dfb))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -2275,7 +2275,7 @@
     (property "Datasheet" "" (at 143.51 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ba742a40-f06e-4d49-8fe5-ddf4a8599ead))
+    (pin "1" (uuid 0845e7c9-86a1-473c-8b81-0a40b7616c5c))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2305,9 +2305,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 102.87 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ce93230a-296e-44e0-8a20-98916599fa8d))
-    (pin "2" (uuid 78e65091-cd1d-4517-baab-94d32d5ef444))
-    (pin "3" (uuid c097baed-c3a4-418b-bace-aac5bfe146da))
+    (pin "1" (uuid 27c5193b-7e6e-4103-be2c-200eaeb2f117))
+    (pin "2" (uuid e31898aa-b9fe-492f-98d9-b1e734ad9fe9))
+    (pin "3" (uuid 79e3b406-e422-42eb-812f-c40b643a6db8))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2337,9 +2337,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 142.24 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6648ac8c-9136-4a6d-b64e-a7d6d0ead1fd))
-    (pin "2" (uuid 8db0ea56-74dd-4505-bbd3-07cc9ce2e4b8))
-    (pin "3" (uuid 39195e69-093b-4548-9d97-49f6a33fe50e))
+    (pin "1" (uuid 717efed3-3b83-46da-9a0a-cbb09ba6d0cf))
+    (pin "2" (uuid 781fca09-3ecf-4d0a-a011-661eecd3698b))
+    (pin "3" (uuid 1dfc3e05-c248-4be6-8cb5-52fcf9da1a87))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2369,7 +2369,7 @@
     (property "Datasheet" "" (at 252.73 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 32cf1ac8-6bec-418f-8ace-9e8c1f69dc3d))
+    (pin "1" (uuid c4f6b811-3a76-4089-8236-e7c0673c9092))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2399,7 +2399,7 @@
     (property "Datasheet" "" (at 143.51 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eb3f417b-b4da-4258-9dff-4117779babaa))
+    (pin "1" (uuid 4957a730-4cd5-411e-b267-2a65f6012032))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2429,7 +2429,7 @@
     (property "Datasheet" "" (at 104.14 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b08fbba2-351f-4446-a86c-b4203ee50850))
+    (pin "1" (uuid caff97f2-8faf-4138-8243-221b026da57b))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2459,8 +2459,8 @@
     (property "Datasheet" "~" (at 204.47 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 80d00187-e7da-4a8a-bcba-760d0fb7e9dc))
-    (pin "2" (uuid bba530b5-29f7-4e23-8a29-b92d1420b238))
+    (pin "1" (uuid 63e9515b-0a7c-4a49-9a4d-1cf54398bf05))
+    (pin "2" (uuid 07070af5-aadf-477d-b29b-625fce30851b))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2490,7 +2490,7 @@
     (property "Datasheet" "" (at 143.51 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 801e89e3-4b4f-45e0-b06b-d8dce2393239))
+    (pin "1" (uuid dd0a1ff1-4659-4926-827c-e1a1990bad20))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -2515,8 +2515,8 @@
     (property "Datasheet" "~" (at 234.95 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 026c58f4-3a71-469e-a31e-5588d9043cdc))
-    (pin "2" (uuid 6b6e5229-7c27-4817-9f51-3e67ce1c1a18))
+    (pin "1" (uuid 9ece349c-1308-4339-b9fe-258c52cb436e))
+    (pin "2" (uuid 79fcaddd-0c9e-41f9-892d-1f006fb44c8e))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2546,9 +2546,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 64.77 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 830de340-cb4f-445e-aa98-5f2c95f48c1c))
-    (pin "2" (uuid 7170b146-9115-4ef7-a897-c4e22f71468f))
-    (pin "3" (uuid f296a489-f165-4904-818e-3e61539fa334))
+    (pin "1" (uuid e0be2844-2951-4084-b382-a77aff7a11f6))
+    (pin "2" (uuid a7a133f2-bc1c-4169-9016-97ac2c277abf))
+    (pin "3" (uuid 05b0750b-3d7a-4813-90ea-91906e1fa4e0))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2578,7 +2578,7 @@
     (property "Datasheet" "" (at 143.51 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cd7a79f4-e9ab-4d24-b1c2-8e839af65c44))
+    (pin "1" (uuid adc89334-42e5-4eaf-ab11-257e2f1f25f6))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2608,7 +2608,7 @@
     (property "Datasheet" "" (at 195.58 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dd4aa054-83f9-45fb-98e8-9f619d536ea4))
+    (pin "1" (uuid d43ce237-593d-4e20-9a11-2982f55531f3))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2638,7 +2638,7 @@
     (property "Datasheet" "" (at 240.03 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b9dee75c-c4da-45f1-b4ba-d228a33d895e))
+    (pin "1" (uuid 0cdff858-ce53-4f59-8893-9c4a065da92d))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2668,7 +2668,7 @@
     (property "Datasheet" "" (at 104.14 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 23fc6c7e-aff8-49d8-8a51-516c6eb52a9d))
+    (pin "1" (uuid d48db7a4-7873-4723-acca-ee83f2a5df7b))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -2693,7 +2693,7 @@
     (property "Datasheet" "" (at 143.51 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 780e5031-0e93-4080-b6e7-1ef452239b38))
+    (pin "1" (uuid 765b6ff7-3188-4957-87f6-111c22165903))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -2718,7 +2718,7 @@
     (property "Datasheet" "" (at 240.03 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4da3dff8-bc32-4c84-9bae-64f0dd9b7a0f))
+    (pin "1" (uuid f6e5ca88-e5a1-4e1b-bc5b-50b4d657edf5))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2748,7 +2748,7 @@
     (property "Datasheet" "" (at 66.04 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1816f8ea-16df-45b0-bbe5-67b38e4cd16c))
+    (pin "1" (uuid 36a0deb1-efca-4678-9e44-a80fd165d81f))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -2773,9 +2773,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 102.87 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9ba5096e-28cc-446f-a9e7-72a3aaf75514))
-    (pin "2" (uuid 0ddd88d8-bd9d-47d7-a75d-a8b6f8069e1f))
-    (pin "3" (uuid 8729b778-d7bb-4c7f-b78b-abd3966ca605))
+    (pin "1" (uuid bbddf4ab-13b3-432e-bc3b-b8abfc40547e))
+    (pin "2" (uuid f8ba2f31-8f6e-4c80-b95f-60005e1c3260))
+    (pin "3" (uuid 93cf1778-abd4-4ea4-a7ba-32b73388a808))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2805,7 +2805,7 @@
     (property "Datasheet" "" (at 66.04 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9efcdea6-b1ae-4de5-91a1-4b8a969cc6a7))
+    (pin "1" (uuid 07b8f7d7-3984-4b14-a18d-49e4fe59d414))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -2830,7 +2830,7 @@
     (property "Datasheet" "" (at 66.04 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid af5ed03a-12d3-46a6-9bab-2f12d06683ca))
+    (pin "1" (uuid f23ae889-4ba5-4640-8aa0-cb3313c7115b))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2860,7 +2860,7 @@
     (property "Datasheet" "" (at 104.14 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e8697789-a276-44e7-a70c-41d3d4d66225))
+    (pin "1" (uuid 941a50bc-4e5a-4abc-aa60-441ab1660c3f))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2890,7 +2890,7 @@
     (property "Datasheet" "" (at 241.3 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a748165-8b6e-4947-966e-3313d22a1b19))
+    (pin "1" (uuid 07c1d9e8-1fdc-4d28-a692-aee962207b94))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2920,9 +2920,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 64.77 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bf5a69e1-46ea-4c9e-8103-25cfc58192bb))
-    (pin "2" (uuid b22f3357-3dfe-442c-b4d6-7d7f55dd5b54))
-    (pin "3" (uuid e1ef3307-8996-46df-a636-9872528e8e28))
+    (pin "1" (uuid 64ccfb2e-985f-4ab3-9cfb-430285775cc4))
+    (pin "2" (uuid f22bf4ff-b402-4078-acbe-dc96249f9abe))
+    (pin "3" (uuid 141ccdcd-897f-4d2c-8d2c-faacffe2df0f))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -2952,7 +2952,7 @@
     (property "Datasheet" "" (at 66.04 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e91caa68-5af1-419e-8a22-d6b1632319e3))
+    (pin "1" (uuid a5abc5ae-4f0d-4a87-aada-cb3d94d33793))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -2977,7 +2977,7 @@
     (property "Datasheet" "" (at 66.04 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 35a86511-a3aa-4637-8dcf-7b2483587396))
+    (pin "1" (uuid 46b44eb3-e383-4243-a2c3-faddb8f9cb21))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -3002,9 +3002,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 64.77 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 58097924-4fe5-4e1b-891f-b23476aba891))
-    (pin "2" (uuid 5c48bee5-a22f-4b54-a2f9-2f73e6a9e77b))
-    (pin "3" (uuid 68234af1-0cbb-4851-b005-c2cd757cffb3))
+    (pin "1" (uuid f10f2454-fc3a-4f6c-8ed2-c333d815a185))
+    (pin "2" (uuid f8152a6a-7754-41ef-b7f4-4123687b6f60))
+    (pin "3" (uuid 3f0c7f92-d989-4c83-b3f5-4c241f24efc5))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3034,54 +3034,54 @@
     (property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32f103cb.pdf" (at 247.65 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 716eacba-4192-474e-a0e7-e7a6a83880ae))
-    (pin "10" (uuid 48664504-5426-45ec-981c-932bdb1e0a05))
-    (pin "11" (uuid 08e34765-cff5-479e-9a6e-a73784e3fc2f))
-    (pin "12" (uuid 88fb228d-9e3e-48dd-804b-ba13b7c01b85))
-    (pin "13" (uuid 28b71388-255a-4a1d-9c75-7271c9083c0b))
-    (pin "14" (uuid 7c6dce6e-e429-4307-8944-9efeba2e74a6))
-    (pin "15" (uuid 4af4e640-2456-4cc1-8add-6be17c3e80af))
-    (pin "16" (uuid 888b3b6e-030e-42f3-b331-bd5509dd9bab))
-    (pin "17" (uuid 36394b8d-4999-4133-adbf-17f73e2988b9))
-    (pin "18" (uuid 49f5acdf-ea22-47e9-8f6b-1040721e0a90))
-    (pin "19" (uuid f336f7e2-60d0-4516-a43d-c006e453fefd))
-    (pin "2" (uuid f87a73ac-ba40-4ee7-9f05-63ac245454fe))
-    (pin "20" (uuid 502d819e-5cda-4f47-bacd-31900a222fca))
-    (pin "21" (uuid a0f1dbad-b896-4fa4-84be-0ff66be6dcd4))
-    (pin "22" (uuid 16cd3703-0a56-43a8-ab55-7b939f6cf6ca))
-    (pin "23" (uuid 7bd5990b-51e9-4ae3-90f9-82d9355cd521))
-    (pin "24" (uuid 1a415d16-c01d-48a6-a0c0-89893bfc8aaa))
-    (pin "25" (uuid e72cfb8c-7a8a-4e8e-b8bf-d6c21b5c7a90))
-    (pin "26" (uuid c724db28-e824-4303-8e1d-95b4f5ebccbb))
-    (pin "27" (uuid fe48d509-7cc5-4c32-8adf-4bf1137d62de))
-    (pin "28" (uuid fa6382ea-130f-423e-9623-c67c77a1f6d6))
-    (pin "29" (uuid 70a7a917-394f-43ae-b422-abcbb30a966a))
-    (pin "3" (uuid 1d8ead7b-9617-4ab3-8bdd-21d03e66b94d))
-    (pin "30" (uuid 9ebc845f-a5d7-4d4e-90e8-db5f4d759740))
-    (pin "31" (uuid d8230967-edaf-4a8f-a7ed-41b02da7f21b))
-    (pin "32" (uuid 45b9b855-0965-450b-8796-c4063f98e6ba))
-    (pin "33" (uuid c1f718ba-88f9-4a7b-aaaf-69f13090a626))
-    (pin "34" (uuid 0346d4d1-a73d-447f-8ab6-34a8b982bc74))
-    (pin "35" (uuid dd028d00-8b99-439d-ab81-3fd2675d8624))
-    (pin "36" (uuid 33a2f8cb-e9ae-4f74-87d9-99bbe2d3f32b))
-    (pin "37" (uuid c7ea39eb-1dba-4d0c-ac6e-7fb598577b1d))
-    (pin "38" (uuid 4fafb1bc-7f0f-4d98-b668-9d290caa59cf))
-    (pin "39" (uuid 3d263032-ccb4-47df-96a0-90ec1bf91ce2))
-    (pin "4" (uuid 90c22041-5fae-404c-86dd-058a7b49fc74))
-    (pin "40" (uuid e2d29368-686e-4b30-881d-2fb5edb2893e))
-    (pin "41" (uuid 4ae3cc7c-a394-4c74-aa00-fc9bf2c068a2))
-    (pin "42" (uuid e26ede1d-af4d-496c-8e86-c4647c038e8d))
-    (pin "43" (uuid 94fcd96f-4749-46ca-9c8b-473f4ce10fa3))
-    (pin "44" (uuid 62ddc425-3c4a-4879-a037-6f87939f0eaa))
-    (pin "45" (uuid 56efd378-28a0-4948-a719-51051a421d75))
-    (pin "46" (uuid a5180b59-80b1-470f-be01-94b15af1315e))
-    (pin "47" (uuid fcf4af4d-25d3-42d8-a1e9-b1c23c7c31b2))
-    (pin "48" (uuid 7240672d-dc7d-4e6c-9e68-12b2ac7f5b0a))
-    (pin "5" (uuid d46dee7a-015a-4699-a923-d3d7d566427c))
-    (pin "6" (uuid 2331352c-903e-4881-8390-10c10703e5d1))
-    (pin "7" (uuid 6d3b2104-07c3-4358-a6f5-960b60e37d1d))
-    (pin "8" (uuid e83b6d9b-a456-4340-a5c9-3e17b3c2b5a2))
-    (pin "9" (uuid 5dac62e0-af94-4131-b8c1-bad6ec786b18))
+    (pin "1" (uuid 73cb1613-46fd-4227-b680-92ce529335b5))
+    (pin "10" (uuid 2d7e8d98-eef2-48ee-a5d8-efa2b20a1b57))
+    (pin "11" (uuid 4f4a2623-9ac9-4cbf-b480-6e367f5bc39f))
+    (pin "12" (uuid 49c6a401-ac1a-4581-bc40-174122fdecff))
+    (pin "13" (uuid edaa730a-0c6c-4602-9327-9938d16234eb))
+    (pin "14" (uuid 7c4b6851-107f-45b4-b459-446af786bb36))
+    (pin "15" (uuid 56c04974-08ec-4e9d-9b1b-5e75329b70a5))
+    (pin "16" (uuid e1013ff2-be0e-418c-9fa8-7c755d29e734))
+    (pin "17" (uuid 9eeae568-076e-44ba-b567-a768e21675c8))
+    (pin "18" (uuid b1ba6cbe-6fcf-49eb-a415-e5702120a54f))
+    (pin "19" (uuid f3f32cb4-ea51-4c4b-82f0-f20268e11e20))
+    (pin "2" (uuid fa7e3b9d-0e61-4a15-b67d-5bf453750884))
+    (pin "20" (uuid 42673bc5-f9ce-4add-9ce0-b3fcc06c705f))
+    (pin "21" (uuid d0fa100e-a450-4f69-abde-639fb23f7f83))
+    (pin "22" (uuid f2509c46-4beb-415c-b68d-f104a8a0e26f))
+    (pin "23" (uuid bff9ef83-051a-4418-97c7-a3fa096b8cfc))
+    (pin "24" (uuid 26f47e29-b8c0-4856-a5c1-5185bf353efd))
+    (pin "25" (uuid 96aa124e-de27-4816-8c72-6d2206057fb0))
+    (pin "26" (uuid b67e54ad-1e04-4118-aee1-530decc39813))
+    (pin "27" (uuid 8fe9ed75-a56a-4a76-b5f3-5fdcbac2d5ca))
+    (pin "28" (uuid cc483e15-6850-47d7-8fc4-11c8eab5bf1d))
+    (pin "29" (uuid 01ffbc17-b6e7-4e95-9d4e-f0704946cdf5))
+    (pin "3" (uuid 72f5864a-b2d4-4817-ba83-2490fef17a24))
+    (pin "30" (uuid d689c389-e253-4cea-b7a7-f5ce08daba97))
+    (pin "31" (uuid e031854c-aa42-448a-b971-f9cf76fa7de2))
+    (pin "32" (uuid 7c87589b-3334-4a33-b42e-8013c079a5a1))
+    (pin "33" (uuid 31cda710-a11b-4584-af42-398d70f2b076))
+    (pin "34" (uuid b0ee8a7c-9311-417e-a3ee-c0037b0e615d))
+    (pin "35" (uuid 6d1e2aa6-e4ca-4f83-87e6-f88251396293))
+    (pin "36" (uuid 72819fbf-d545-41d8-ae73-2d619fe026e6))
+    (pin "37" (uuid b0b4bcf9-c6e9-41ca-9691-56c2b6ac3abe))
+    (pin "38" (uuid 6ff9714d-b789-4a06-870c-6f5104679a66))
+    (pin "39" (uuid 426601a2-5922-4de8-a2ae-268754cab026))
+    (pin "4" (uuid b96d9b26-a2eb-4430-ae5a-2c59ff55d6da))
+    (pin "40" (uuid 33405beb-41e1-4b00-8190-44d89891dc78))
+    (pin "41" (uuid 10496592-1b09-480d-bd50-1f812cce21e1))
+    (pin "42" (uuid 82b4efe9-e440-48b5-a962-fe5122722490))
+    (pin "43" (uuid 4e7eeaa2-aced-4f40-a4a0-7dafe483d729))
+    (pin "44" (uuid 5a078a54-c888-4ee9-bd09-621390a642f6))
+    (pin "45" (uuid 2d1bdca8-4ea8-4481-b2bf-b0dfc8cf6ffc))
+    (pin "46" (uuid b33ffa2b-9b2a-411c-be98-74b189a193f7))
+    (pin "47" (uuid 387fbc02-0701-4164-978f-2f75cccdf90e))
+    (pin "48" (uuid 06d39677-f05b-4f2c-adfb-867c0d6defa4))
+    (pin "5" (uuid 8ee15bed-661b-4dce-8a7c-df37d8687b46))
+    (pin "6" (uuid 1b2f30c8-612c-4316-8065-297caa8a8530))
+    (pin "7" (uuid a5b1d8b9-7ab6-4f36-aee2-cc403018af78))
+    (pin "8" (uuid 35b96aed-fa44-40cf-9ce4-3bffc2b42f6e))
+    (pin "9" (uuid b92bb97c-707e-4811-bee4-f6724861e16f))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3111,9 +3111,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 142.24 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2a5ae9ae-5631-416c-809f-4e34868aca64))
-    (pin "2" (uuid 04fc1e49-59f1-4797-ae74-d77151ee642e))
-    (pin "3" (uuid 6e461415-db4b-4c2e-a3e9-407476fac3aa))
+    (pin "1" (uuid 1a3373aa-dc29-4be7-8db3-2325061adbf8))
+    (pin "2" (uuid da867ce7-b580-4544-b5a5-7b9ea2b4ea27))
+    (pin "3" (uuid 64fae276-b827-48be-a49b-60b4d926af3b))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3143,7 +3143,7 @@
     (property "Datasheet" "" (at 143.51 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 38de0768-00b9-4db2-894c-b9cc10a49881))
+    (pin "1" (uuid 2664a789-b029-4c6f-baf2-8fc618fd04b7))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3173,9 +3173,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 142.24 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9251adb7-9fb4-4039-b883-839ac3c1f912))
-    (pin "2" (uuid 832849e7-978d-465a-9987-117e2fa9a114))
-    (pin "3" (uuid 6d5d1613-3df4-4c5c-a168-fb97b583ec00))
+    (pin "1" (uuid 267af5cb-970f-4818-b11d-e65eea7b1598))
+    (pin "2" (uuid 4ad7b011-af6c-417d-b92e-a4fadf72a543))
+    (pin "3" (uuid b1c87bb2-d494-4e8f-a465-ae9770628ec2))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3205,7 +3205,7 @@
     (property "Datasheet" "" (at 104.14 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 086660eb-12e2-4f86-a4cb-367c448f0bbc))
+    (pin "1" (uuid 8737e4f7-4472-4bb6-80d3-7a5c894dc00e))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -3230,9 +3230,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 64.77 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5ba8159b-8882-4bed-9bd6-fa2e41dba2e6))
-    (pin "2" (uuid 1ad537b3-cd39-4f74-b6cd-17c36db14098))
-    (pin "3" (uuid 13f0f0b0-c395-40a5-8c9a-447a60043cdd))
+    (pin "1" (uuid a5a716d3-d8a2-4ce6-a048-072764d09e99))
+    (pin "2" (uuid a0991b6a-1329-4102-a2d4-8d0459d14a43))
+    (pin "3" (uuid d1ea4901-5e5a-4c99-9e42-52e3a0132f0a))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3262,7 +3262,7 @@
     (property "Datasheet" "" (at 143.51 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c8790d17-e392-4efe-89fe-acf5e1ded176))
+    (pin "1" (uuid 2e98ca77-3748-46f0-835a-b35dcad22f5c))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3292,8 +3292,8 @@
     (property "Datasheet" "~" (at 222.25 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 00f95677-8516-4c1f-8337-cc4bb9d14ed7))
-    (pin "2" (uuid e2db8132-3f90-4b62-80ef-1f16c337e5de))
+    (pin "1" (uuid 9be57145-3e0d-4ee4-986d-75fd4a6b58d6))
+    (pin "2" (uuid d43a5592-d413-41e8-a934-d08bae341aa8))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3323,7 +3323,7 @@
     (property "Datasheet" "" (at 66.04 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 19bd259d-0d85-4963-9890-83d31839a2d2))
+    (pin "1" (uuid 01ddceab-6317-40a2-8c9a-85dad6794e45))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -3348,10 +3348,10 @@
     (property "Datasheet" "~" (at 227.33 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9a4afce2-4d1e-4701-8a95-bf7bb33def24))
-    (pin "2" (uuid ca527f4c-e173-44b6-868d-bfeb8bc82f05))
-    (pin "3" (uuid 6b3e3104-4b88-457a-932b-af0fe349c473))
-    (pin "4" (uuid af6bcc8f-9139-4929-ba11-5b1980a1bfdc))
+    (pin "1" (uuid 60533da2-5934-4c8b-a85e-bcdc108d940f))
+    (pin "2" (uuid c93515ba-9c38-48dc-9af3-3b2f19347366))
+    (pin "3" (uuid 17321c84-5614-4208-98d4-acf5f612b91c))
+    (pin "4" (uuid 184ff8f9-4a7d-4223-9f53-8ce474194dda))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3381,8 +3381,8 @@
     (property "Datasheet" "~" (at 245.11 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 261a7f27-a7c1-477b-b891-f4734d73c075))
-    (pin "2" (uuid 8d87c261-ba5a-4f49-8a7f-ec1d46866495))
+    (pin "1" (uuid 973959c4-89d3-4101-bacb-2299d3037344))
+    (pin "2" (uuid f726b3b8-a350-4740-b7c4-0b58dbfe5712))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3412,7 +3412,7 @@
     (property "Datasheet" "" (at 66.04 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c0ed45cb-e330-438e-8c99-71b772dcbe3e))
+    (pin "1" (uuid 01892928-dbce-4608-be3f-150ce8b5fa5d))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3442,7 +3442,7 @@
     (property "Datasheet" "" (at 215.9 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dffac6fc-0770-48ff-810e-40a49c1a512a))
+    (pin "1" (uuid 1f4636c4-387e-48df-bf14-d2e69a3df8c3))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3472,7 +3472,7 @@
     (property "Datasheet" "" (at 104.14 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b662c409-7345-46bc-88d1-a52b198fde5d))
+    (pin "1" (uuid b80a5e23-d6ba-443b-8b17-d0998657065a))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -3497,7 +3497,7 @@
     (property "Datasheet" "" (at 143.51 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 669a3479-5dd5-4f5f-87b1-f4790ecfc110))
+    (pin "1" (uuid 44c9978e-743b-429b-bff1-34bfbac054b2))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -3522,9 +3522,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 102.87 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 78c54e72-f0ae-4901-9801-569f6d47e21b))
-    (pin "2" (uuid 6d17b0ae-cddf-4943-b2db-c1be024180b5))
-    (pin "3" (uuid 1c86f779-492d-49a9-a843-0b30b20ede38))
+    (pin "1" (uuid 59f622e5-5196-424a-a63a-da67507b61ed))
+    (pin "2" (uuid 3e6ae75b-71ac-43b7-b410-1542a686ec55))
+    (pin "3" (uuid 561b0655-bd7c-4bf8-abef-f05510df0ad5))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3554,8 +3554,8 @@
     (property "Datasheet" "~" (at 180.34 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b9eac4b5-b637-4196-a7e4-d0da8d722339))
-    (pin "2" (uuid cf75221d-0e9a-4cad-98e9-1e38344f8a2a))
+    (pin "1" (uuid 5e922150-02ee-40d3-b821-88b3a3bdf2c8))
+    (pin "2" (uuid 342cc691-48aa-4ebd-ae80-9ca0785774fe))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3585,7 +3585,7 @@
     (property "Datasheet" "" (at 143.51 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f9de27fa-b554-4939-8a76-8a9041dec6e8))
+    (pin "1" (uuid 03f1c61c-f6d4-406b-ae19-4d4742c7693f))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -3610,7 +3610,7 @@
     (property "Datasheet" "" (at 250.19 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2caa7709-c26b-49e9-96c6-0d45f6c5e8ea))
+    (pin "1" (uuid 55b3011a-9089-4dc9-88f1-13008c01a931))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3640,7 +3640,7 @@
     (property "Datasheet" "" (at 66.04 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3aaf43fa-d036-421c-bcff-1e5250c03740))
+    (pin "1" (uuid cb83d562-78f1-4507-92d5-e2aafca2fd1d))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3670,8 +3670,8 @@
     (property "Datasheet" "~" (at 175.26 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ee1be4df-b520-4a16-ae1d-99b90089c113))
-    (pin "2" (uuid 9068503c-7e5c-4c73-9507-dec3269bbe41))
+    (pin "1" (uuid c33e1465-5e38-4b76-84b4-fa6bcb526b23))
+    (pin "2" (uuid b52db3ae-ef84-45fa-b9d4-9866703be926))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3701,7 +3701,7 @@
     (property "Datasheet" "" (at 66.04 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3c98657a-6af7-46f3-ac0d-ccab045ab508))
+    (pin "1" (uuid f8c68458-8078-4321-ad3e-35a356c6abae))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3731,7 +3731,7 @@
     (property "Datasheet" "" (at 143.51 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 400ae26f-f526-4506-bd7a-d02bb43e387f))
+    (pin "1" (uuid 6762c6aa-d422-466e-bfbe-431add87e437))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -3756,8 +3756,8 @@
     (property "Datasheet" "~" (at 220.98 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 62526925-bcd0-4112-ac10-37c951bbd5ac))
-    (pin "2" (uuid 35280f86-b43c-40ad-a331-865f98db69e6))
+    (pin "1" (uuid 4cd13ac4-9799-440e-a0f9-9d28adc592ca))
+    (pin "2" (uuid 767d38b7-a683-4bcf-a3ba-976aa454cc43))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3787,7 +3787,7 @@
     (property "Datasheet" "" (at 104.14 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 25395df0-4afa-4607-9bdf-fdad0c6d6b73))
+    (pin "1" (uuid b63bc1d8-8342-4f1c-b010-472e194e91b5))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -3812,9 +3812,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 64.77 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a13c7a79-653c-4d1e-9252-62e52199a101))
-    (pin "2" (uuid b9d8350e-0b5a-4bd6-9508-7826c6dd144c))
-    (pin "3" (uuid c0c781b3-60d7-4083-8c86-e2b6a1457480))
+    (pin "1" (uuid 660f7315-ed91-42e7-9f1d-10ceb0039c3f))
+    (pin "2" (uuid fa89755d-70eb-404b-89e1-f2cc2089b31a))
+    (pin "3" (uuid b4a47ae7-33d0-4e19-8744-be9a11bfd868))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3844,7 +3844,7 @@
     (property "Datasheet" "" (at 66.04 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b0e6bfb5-241a-4c77-b3fa-4185c84bec41))
+    (pin "1" (uuid 900dc23f-6896-421a-84cb-0d8444fa83c6))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3874,7 +3874,7 @@
     (property "Datasheet" "" (at 255.27 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4fcef2fe-4cda-453c-8038-2803fa7a5f19))
+    (pin "1" (uuid b345af9b-02b8-4e36-ad3f-ff4f79c19879))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3904,9 +3904,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 142.24 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6261e544-7c65-4cec-b295-f0543044b6dd))
-    (pin "2" (uuid a96f5693-f2ef-4ce2-9045-0dabbd6068aa))
-    (pin "3" (uuid 6c600292-000d-4513-8f08-19755619637e))
+    (pin "1" (uuid 2ebadbba-aac4-46bc-bd9f-5ee43103511a))
+    (pin "2" (uuid aa46f848-bc3f-4f77-a047-27b65c92287c))
+    (pin "3" (uuid 5c06d428-e920-49fa-87e6-a9d0b7656eac))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3936,9 +3936,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 102.87 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d406261f-fd69-4b86-b9b3-9a24f7f3ff28))
-    (pin "2" (uuid ef6206f1-d8f8-45a7-af46-4f5e7f5d8233))
-    (pin "3" (uuid c3b092c6-153c-4c90-b585-2f31acb54961))
+    (pin "1" (uuid c8ef1969-d20b-4d78-b904-318cc174ec4b))
+    (pin "2" (uuid 416a1f91-a467-48c1-a207-6a3df15e4df0))
+    (pin "3" (uuid ffe185ea-906a-4282-b0bf-cde6c3798abd))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3968,8 +3968,8 @@
     (property "Datasheet" "~" (at 255.27 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 06dacce8-6d35-40cc-9524-eb9f99d5f413))
-    (pin "2" (uuid c9f2c9db-230f-4de7-b975-6c62533b5944))
+    (pin "1" (uuid a0307ba6-f28f-4903-99b1-38bb6dd771af))
+    (pin "2" (uuid 1e37775b-ea29-4bf1-a197-83d9a365918c))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -3999,7 +3999,7 @@
     (property "Datasheet" "" (at 180.34 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ed3a1c39-8e21-4b0f-b191-e07b7c6bca03))
+    (pin "1" (uuid 626b43e7-1a7f-4c1e-a0f6-972d8873fd7e))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4029,7 +4029,7 @@
     (property "Datasheet" "" (at 248.92 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3a3071e5-d0fd-4235-bf5d-a88d11c6896a))
+    (pin "1" (uuid 37803df0-83ba-45da-9aec-37cf918bc669))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4059,7 +4059,7 @@
     (property "Datasheet" "" (at 66.04 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f2f80ca6-5745-46b1-8e5b-ae710caa6704))
+    (pin "1" (uuid 807c03c0-9a7d-41ca-b4cd-196bd359d625))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4089,7 +4089,7 @@
     (property "Datasheet" "" (at 66.04 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9798bdca-df4d-4526-9de7-66c1c5facc2a))
+    (pin "1" (uuid edc6ca96-b61c-4bb9-b608-b200ab12a7f3))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -4114,9 +4114,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 102.87 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0c51d904-33b3-4ec7-9346-947a04499eec))
-    (pin "2" (uuid 8dfbccf9-8778-4da6-92f1-8d0825edd068))
-    (pin "3" (uuid 24216197-ce32-49d9-a907-f1b983151bff))
+    (pin "1" (uuid 360ea1eb-17cf-4df2-909e-18b4b7c4c136))
+    (pin "2" (uuid 4e78c50d-6380-46c3-b982-4f3a63890809))
+    (pin "3" (uuid 0c6ffb71-0ee5-40b2-995d-e9be8bd9207c))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4146,7 +4146,7 @@
     (property "Datasheet" "" (at 215.9 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fb30fb98-4660-40bf-972a-cee0f71a9233))
+    (pin "1" (uuid 23c9cc06-ee48-42d9-9cf4-007366fbb530))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4176,7 +4176,7 @@
     (property "Datasheet" "" (at 143.51 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2a62bc3b-ef73-44ed-97f4-a11b125fb750))
+    (pin "1" (uuid 8d70a9aa-e222-4123-8bae-8843ae042a48))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -4201,7 +4201,7 @@
     (property "Datasheet" "" (at 143.51 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 17bdfc66-f34a-43fd-b87c-227b09e97472))
+    (pin "1" (uuid 09a0bd7c-2fc2-4766-9db7-227739266fff))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -4226,9 +4226,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 142.24 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c5364869-12ef-4e76-9504-0cb63d247366))
-    (pin "2" (uuid 44048a76-c15e-4169-b5e2-03b841b5058c))
-    (pin "3" (uuid 48ec5166-043c-40ec-a400-401a16a5110b))
+    (pin "1" (uuid 486818ae-f2f0-47e3-917c-eed0154bcbcf))
+    (pin "2" (uuid 86d7c856-f3d3-4f76-9e80-6784ded6b64e))
+    (pin "3" (uuid 42eadc82-b3ed-483c-b135-e9d1aa470971))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4258,7 +4258,7 @@
     (property "Datasheet" "" (at 143.51 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cd128a08-d7bb-42f6-8bc7-8b37cdce238a))
+    (pin "1" (uuid 70876874-f3f8-49d3-b8b6-187cb610028d))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4288,7 +4288,7 @@
     (property "Datasheet" "" (at 66.04 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a74f636e-5bb0-4bac-9b85-80663ac1a94d))
+    (pin "1" (uuid 62a5a493-7efb-4977-8956-ccfaf09f4bfd))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4318,7 +4318,7 @@
     (property "Datasheet" "" (at 104.14 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 79732518-5536-45d8-b818-68b07b81dba0))
+    (pin "1" (uuid 0dee3936-274f-48dd-8888-a086a9a4a74e))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -4343,8 +4343,8 @@
     (property "Datasheet" "~" (at 223.52 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3ee7f58e-afe9-4d2c-9333-9a4cef58c708))
-    (pin "2" (uuid 0573eae4-7d50-4d99-8fb5-761b1905cacb))
+    (pin "1" (uuid 6e471754-01a3-4c6a-8ac7-3670d0b361bc))
+    (pin "2" (uuid 3bb63d24-d1d4-401b-afb9-da7f33a3755a))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4374,7 +4374,7 @@
     (property "Datasheet" "" (at 104.14 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f2e09ea3-2512-4b2f-8747-c4af8bd9a0cd))
+    (pin "1" (uuid 37e2329e-892f-4a7f-b3be-eb687f32af24))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4404,7 +4404,7 @@
     (property "Datasheet" "" (at 66.04 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f94d4bbc-d742-4115-8f1c-506300a4fb06))
+    (pin "1" (uuid 77715f3e-983b-485d-b34d-1e2e9c5f96f1))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4434,9 +4434,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 64.77 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ca848e11-2985-4082-97c6-0797dca49ff8))
-    (pin "2" (uuid 1c39a7a7-ed89-4001-aa88-9888c17348c1))
-    (pin "3" (uuid 65af2565-adc5-46f8-92bf-c49b22bb0ca8))
+    (pin "1" (uuid 11b9731c-f02f-48f6-bfbf-4b7598a28f41))
+    (pin "2" (uuid 7452a796-c272-4f86-874f-7548c78c6237))
+    (pin "3" (uuid bd0488f9-289a-4481-bbb4-899fb4ed88cb))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4466,7 +4466,7 @@
     (property "Datasheet" "" (at 143.51 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6a651c4b-b121-41c5-9103-08fb1fc0a07d))
+    (pin "1" (uuid 374451f1-5d61-4344-8ee1-415ea9162f90))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4496,7 +4496,7 @@
     (property "Datasheet" "" (at 104.14 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7279a510-bc22-4242-bd3e-744a480f1892))
+    (pin "1" (uuid f410d52e-06fb-4224-90cb-2df39a18232a))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -4521,7 +4521,7 @@
     (property "Datasheet" "" (at 143.51 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eb915f32-516c-4710-87d6-1dcde0748547))
+    (pin "1" (uuid c5a82b3c-63dc-4190-b654-0ad95938f924))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -4546,7 +4546,7 @@
     (property "Datasheet" "" (at 66.04 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 34f2d4f2-54e2-4f92-ae2d-e420e9d22941))
+    (pin "1" (uuid e55ea2a3-b250-4883-9989-b6b02cc5b9f5))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -4571,8 +4571,8 @@
     (property "Datasheet" "~" (at 224.79 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 410bf54f-5069-4105-978e-8a242ac46800))
-    (pin "2" (uuid 55d36d30-91f6-4134-b01b-4554d844b205))
+    (pin "1" (uuid b6063488-f8bc-41b1-a273-f279f8903152))
+    (pin "2" (uuid 685b0b36-a0d3-47a9-b914-257b4844b840))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4602,7 +4602,7 @@
     (property "Datasheet" "" (at 241.3 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 047692e3-bbb1-40a7-9650-51622f030340))
+    (pin "1" (uuid 6c7fd9e2-ca21-4332-8978-5c48318da365))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4632,7 +4632,7 @@
     (property "Datasheet" "" (at 104.14 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2baf1487-edaf-4857-a56c-8e70522f0e5d))
+    (pin "1" (uuid 773c1854-384c-45d7-aab1-ff32de134074))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4662,7 +4662,7 @@
     (property "Datasheet" "" (at 247.65 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 49e6fbcc-446c-47ac-9652-3a18f7a3df64))
+    (pin "1" (uuid bf43df64-7e6e-4666-bab7-641ce869dab6))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4692,9 +4692,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 142.24 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bb01270b-2c76-46db-ae1c-00209aa18a2b))
-    (pin "2" (uuid 93711a27-44ea-4007-a372-e2272e7b94e8))
-    (pin "3" (uuid 03964b45-11b9-41a7-90d9-a35847431e92))
+    (pin "1" (uuid 6aeac369-0f7d-4964-b3f8-aab6b562e5e0))
+    (pin "2" (uuid c7828b46-1e69-435e-820f-fb74c0b931f4))
+    (pin "3" (uuid 073d8dd3-3b5a-442a-bbba-23e43c2adead))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4724,7 +4724,7 @@
     (property "Datasheet" "" (at 143.51 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 74384218-451c-4598-a916-215d18f7f53b))
+    (pin "1" (uuid 5071652a-fd80-4fc9-8e5f-9f0d8a266fc9))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4754,7 +4754,7 @@
     (property "Datasheet" "" (at 104.14 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f6d5ede0-edce-438f-a473-4a592adf5c44))
+    (pin "1" (uuid 9cb09541-a704-49ca-926e-335081cee8d1))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4784,7 +4784,7 @@
     (property "Datasheet" "" (at 66.04 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0d1583b5-c02b-400b-8c22-27cfe2d0ff78))
+    (pin "1" (uuid c832c5bf-fc0a-4ff9-81a7-fa54640960b5))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -4809,7 +4809,7 @@
     (property "Datasheet" "" (at 104.14 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e1961f99-2a4f-4336-ae6e-957dce5a3f8f))
+    (pin "1" (uuid e50173e2-6533-4299-b53b-f4b2f028c32c))
     (instances
       (project "2023l3-int"
         (path "/91e7b1c2-b009-4d84-9159-ee8884a12474/b6f041e8-1c4e-4d5e-bf26-3f97c4703dae"
@@ -4834,7 +4834,7 @@
     (property "Datasheet" "" (at 180.34 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5d69e049-5b50-4917-ba95-7ce27cd3bdd9))
+    (pin "1" (uuid 936e3993-5c56-44db-8e0a-28fc84cb4455))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4864,9 +4864,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/82476/tssp58p38.pdf" (at 142.24 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0bb3819c-2224-4346-b93b-954cf7835feb))
-    (pin "2" (uuid eafd1aeb-49e8-4c22-8514-a05062a52ad0))
-    (pin "3" (uuid 4b068568-964e-4d50-891f-e768310ffc8b))
+    (pin "1" (uuid eeaf8ccb-9221-454d-bd8b-81d4510e0be2))
+    (pin "2" (uuid df5ef305-d063-4cf5-8a04-5004e69371c1))
+    (pin "3" (uuid 90c62e85-53e4-4c49-97d8-fde6973a97fb))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
@@ -4896,7 +4896,7 @@
     (property "Datasheet" "" (at 104.14 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f5be345d-c569-48d3-85ff-044dbd74dc71))
+    (pin "1" (uuid acd96198-69aa-4ba2-9bb6-b38f5f24a22a))
     (instances
       (project "temp"
         (path "/21fe0e9a-aa18-49b9-8e6f-d2fa4e415747"
