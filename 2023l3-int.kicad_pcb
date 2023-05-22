@@ -735,8 +735,8 @@
       (net 25 "/IR/SWCLK") (pinfunction "Pin_3") (pintype "passive") (tstamp f129e020-16d1-42cf-b16b-3ebdfc8ab3fd))
     (pad "4" smd roundrect (at 1.5 -2 270) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 3 "+3V3") (pinfunction "Pin_4") (pintype "passive") (tstamp b2a54440-c227-4c1d-8818-47df15029684))
-    (pad "MP" smd roundrect (at -2.8 1.875 270) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp ea162bac-e3d8-450a-9ac0-9162135a7074))
-    (pad "MP" smd roundrect (at 2.8 1.875 270) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp 05445e18-9911-41a5-87ff-b85f3eb93912))
+    (pad "MP" smd roundrect (at -2.8 1.875 270) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083333333) (tstamp ea162bac-e3d8-450a-9ac0-9162135a7074))
+    (pad "MP" smd roundrect (at 2.8 1.875 270) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083333333) (tstamp 05445e18-9911-41a5-87ff-b85f3eb93912))
     (model "C:/Users/vince/OneDrive/Documents/KiCad/7.0/3dmodels/SM04B-SRSS-TB.step"
       (offset (xyz 0 1.5 0))
       (scale (xyz 1 1 1))
